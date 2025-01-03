@@ -1,16 +1,30 @@
-# E-commerce
+# **E-commerce Flutter Application**
 
-A new Flutter project.
+Une application Flutter de commerce électronique moderne et robuste, conçue pour offrir une expérience utilisateur intuitive et performante.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## **Fonctionnalités principales**
+- **Cubit : Gestion simplifiée de l'état.
+- **Hive : Stockage local rapide et efficace.
+- **Dio : Connexion API performante.
+- **Animations modernes : Transition fluide entre les écrans.
+- **Responsiveness : Compatibilité avec différentes tailles d'écran 
+## **Prérequis**
+Avant de commencer, assurez-vous d'avoir :
+- **Flutter SDK** installé ([Guide d'installation Flutter](https://docs.flutter.dev/get-started)).
+- **Éditeur de code** Android Studio.
+- **Un appareil ou émulateur** pour exécuter l'application.
 
-A few resources to get you started if this is your first Flutter project:
+## **Installation**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### **1. Clonez ce dépôt**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+git clone https://github.com/votre-utilisateur/votre-repo.git
+ ### ** Installez les dépendances
+flutter pub get
+### ** Exécutez l'application
+flutter run
+## **Contact
+Pour toute question ou suggestion :
+Email : ryhabelmoncerr@gmail.com
